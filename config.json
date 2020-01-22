@@ -1,13 +1,13 @@
 {
-    "siteTitle": "Author's fancy blog",
+    "siteTitle": "Vlab",
     "outputDir": "_site",
     "copy": {
         "/posts": "/"
     },
     "feed": {
         "type": "rss",
-        "title": "Author's fancy blog",
-        "description": "Author's blog posts",
+        "title": "Visscher Lab",
+        "description": "UAB Lab",
         "id": "https://example.com",
         "link": "https://example.com/posts",
         "image": "https://example.com/img/logo.png",
